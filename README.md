@@ -41,5 +41,5 @@ Pour la page statique : ouvrir `releve.html` dans le navigateur, puis F12 → mo
      ce que vous avez vérifié/modifié, ce que vous avez appris, limites constatées. -->
 * Outil : Claude (Claude Code).
 * Ce que l’IA a produit : tous les fichiers (`releve.html`, `style.css`, `prix.csv`, `app.py`). Elle a aussi corrigé l’erreur `git remote` et expliqué les étapes GitHub.
-* Ce que j'ai verifié: j'ai testé chaque route, relu le fichier `app.py`, tester le mode mobile.
-* Ce que j'ai appris ou constaté : l’ambiguïté entre Django et app.py dans l’énoncé, l’intérêt de `escape()`, ou le fait que les données de `prix.csv` sont fictives.
+* Ce que j'ai vérifié: j'ai testé chaque route, relu le fichier `app.py`, testé le mode mobile.
+* Ce que j'ai appris ou constaté : l’ambiguïté entre Django et app.py dans l’énoncé, l’intérêt de `escape()`, et le fait que les données de `prix.csv` sont fictives.
