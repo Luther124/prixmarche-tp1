@@ -1,0 +1,88 @@
+/* Style de base : pensé pour le mobile d'abord */
+body {
+  font-family: system-ui, sans-serif;
+  margin: 1rem;
+  color: #1b2633;
+  background: #f4f6f9;
+  line-height: 1.4;
+}
+
+h1 {
+  color: #003366;
+  font-size: 1.4rem;
+  margin-bottom: 0.2rem;
+}
+
+.sous-titre {
+  margin-top: 0;
+  color: #5a6b7d;
+}
+
+form {
+  background: white;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+label {
+  display: block;
+  margin-top: 0.8rem;
+  font-weight: 600;
+}
+
+input,
+select {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.6rem;
+  margin-top: 0.3rem;
+  font-size: 1rem;          /* >= 16px : évite le zoom auto sur iPhone */
+  border: 1px solid #b8c4d0;
+  border-radius: 6px;
+}
+
+input:focus,
+select:focus {
+  outline: 2px solid #3e8e41;
+  border-color: #3e8e41;
+}
+
+button {
+  margin-top: 1.2rem;
+  background: #3e8e41;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 0.8rem;
+  font-size: 1rem;
+  width: 100%;              /* gros bouton tactile */
+  cursor: pointer;
+}
+
+button:hover {
+  background: #2f6d32;
+}
+
+footer {
+  margin-top: 2rem;
+  font-size: 0.85rem;
+  color: #5a6b7d;
+  text-align: center;
+}
+
+/* Écrans larges : ordinateur */
+@media (min-width: 768px) {
+  body {
+    max-width: 480px;
+    margin: 2rem auto;
+  }
+  h1 {
+    font-size: 1.8rem;
+  }
+  button {
+    width: auto;
+    padding: 0.8rem 2rem;
+  }
+}

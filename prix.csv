@@ -1,0 +1,17 @@
+date,ville,marche,produit,unite,prix
+2026-10-01,Yaounde,Mokolo,plantain,regime,3500
+2026-10-01,Yaounde,Mfoundi,plantain,regime,3800
+2026-10-01,Douala,Sandaga,plantain,regime,3000
+2026-10-01,Douala,New-Bell,plantain,regime,3200
+2026-10-01,Garoua,Grand marche,plantain,regime,4500
+2026-10-01,Yaounde,Mokolo,manioc,bassine,2500
+2026-10-01,Douala,Sandaga,manioc,bassine,2800
+2026-10-01,Bafoussam,Marche A,manioc,bassine,2000
+2026-10-01,Garoua,Grand marche,manioc,bassine,3000
+2026-10-01,Yaounde,Mfoundi,riz,kg,650
+2026-10-01,Douala,New-Bell,riz,kg,600
+2026-10-01,Garoua,Grand marche,riz,kg,700
+2026-10-01,Bafoussam,Marche A,riz,kg,675
+2026-10-01,Yaounde,Mokolo,tomate,seau,4000
+2026-10-01,Douala,Sandaga,tomate,seau,4500
+2026-10-01,Bafoussam,Marche A,tomate,seau,3000
