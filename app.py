@@ -3,7 +3,7 @@
 Lancement :  python app.py runserver
 Puis ouvrir : http://127.0.0.1:8000/
 
-# aidé par IA (Claude), vérifié par : <votre nom>
+# aidé par IA (Claude), vérifié par : DJAMKENE SOUGNABE Luther
 """
 import csv
 import json
